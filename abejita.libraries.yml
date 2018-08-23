@@ -1,0 +1,13 @@
+estilos:
+  css:
+    component:
+      css/style.css: {}
+
+javascript:
+  js: 
+    js/popper.min.js: {}
+    js/bootstrap.min.js: {}
+    js/global.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupal
